@@ -49,8 +49,8 @@ Mostly :
 
 ### Useful resources
 
-- [CSS Triangle]([https://www.example.com](https://css-tricks.com/snippets/css/css-triangle/))
+- [CSS Triangle] (https://css-tricks.com/snippets/css/css-triangle/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ClemenceTafforeau)
+- Frontend Mentor - [@ClemenceTafforeau](https://www.frontendmentor.io/profile/ClemenceTafforeau)
